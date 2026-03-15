@@ -1,0 +1,6 @@
+[core]
+    remote = local_remote
+['remote "remote_name"']
+    url = ../REMOTE_LOCATION
+['remote "local_remote"']
+    url = ../remote_data
